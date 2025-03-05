@@ -1,29 +1,42 @@
 # TyBScIT_sem6_IS
-1. Perform the analysis for the following: 
-a. Import the data warehouse data in Microsoft Excel and create the Pivot table and Pivot 
-Chart. 
-b. Import the cube in Microsoft Excel and create the Pivot table and Pivot Chart to perform data 
-analysis. 
+1. Configure Routers: 
+a. OSPF MD5 authentication. 
+b. NTP. 
+c. to log messages to the syslog server. 
   
-2. Apply the what – if Analysis for data visualization. Design and generate necessary reports 
-based on the data warehouse data. Use Excel. 
+2. Configure AAA Authentication 
+a. Configure a local user account on Router and configure authenticate on the console 
+and vty lines using local AAA 
+b. Verify local AAA authentication from the Router console and the PC-A client 
   
-3. Perform the data classification using classification algorithm using R/Python. 
+3. Configuring Extended ACLs 
+a. Configure, Apply and Verify an Extended Numbered ACL 
   
-4. Perform the data clustering using clustering algorithm using R/Python. 
+4. Configure IP ACLs to Mitigate Attacks and IPV6 ACLs 
+a. Verify connectivity among devices before firewall configuration. 
+b. Use ACLs to ensure remote access to the routers is available only from 
+management station PC-C. 
+c. Configure ACLs on to mitigate attacks. 
+   d. Configuring IPv6 ACLs 
   
-5. Perform the Linear regression on the given data warehouse data using R/Python. 
+5. Configuring a Zone-Based Policy Firewall 
   
-6. Perform the logistic regression on the given data warehouse data using R/Python. 
+6. Configure IOS Intrusion Prevention System (IPS) Using the CLI 
+a. Enable IOS IPS. 
+b. Modify an IPS signature. 
   
-7. Write a Python program to read data from a CSV file, perform simple data analysis, and 
-generate basic insights. (Use Pandas is a Python library). 
+7. Layer 2 Security 
+a. Assign the Central switch as the root bridge. 
+b. Secure spanning-tree parameters to prevent STP manipulation attacks. 
+c. Enable port security to prevent CAM table overflow attacks. 
   
-8. Perform data visualization 
-a. Perform data visualization using Python on any sales data. 
-b. Perform data visualization using PowerBI on any sales data. 
+8. Layer 2 VLAN Security 
   
-9. Create the Data staging area for the selected database using SQL. 
+ 
+9. Configure and Verify a Site-to-Site IPsec VPN Using CLI 
   
-10. Create the cube with suitable dimension and fact tables based on ROLAP, MOLAP and 
-HOLAP model.
+10. Configuring ASA Basic Settings and Firewall Using CLI 
+a. Configure basic ASA settings and interface security levels using CLI 
+b. Configure routing, address translation, and inspection policy using CLI 
+c. Configure DHCP, AAA, and SSH 
+d. Configure a DMZ, Static NAT, and ACLs 
