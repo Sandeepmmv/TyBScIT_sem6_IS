@@ -19,7 +19,7 @@ management station PC-C.](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/mai
   [c. Configure ACLs on to mitigate attacks.](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/main/Practical%204/Pratical%204%20Part%202C.pkt) <br/>
    [d. Configuring IPv6 ACLs](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/main/Practical%204/Pratical%204%20IPV6.pkt) <br/>
   
-[5. Configuring a Zone-Based Policy Firewall](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/main/Practical%205/Practical%20ZPF%205C.pkt) <br/>
+5. [Configuring a Zone-Based Policy Firewall](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/main/Practical%205/Practical%20ZPF%205C.pkt) <br/>
   
 6. Configure IOS Intrusion Prevention System (IPS) Using the CLI <br/>
   [a. Enable IOS IPS.]() <br/>
@@ -30,10 +30,10 @@ management station PC-C.](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/mai
   [b. Secure spanning-tree parameters to prevent STP manipulation attacks.]() <br/>
   [c. Enable port security to prevent CAM table overflow attacks.](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/main/Practical%207/Practical%207C.pkt) <br/>
   
-[8. Layer 2 VLAN Security](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/main/Practical%208/Practical%208C.pkt) <br/>
+8. [Layer 2 VLAN Security](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/main/Practical%208/Practical%208C.pkt) <br/>
   
  
-[9. Configure and Verify a Site-to-Site IPsec VPN Using CLI](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/main/Practical%209/Practical%209C.pkt) <br/>
+9. [Configure and Verify a Site-to-Site IPsec VPN Using CLI](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/main/Practical%209/Practical%209C.pkt) <br/>
   
 10. Configuring ASA Basic Settings and Firewall Using CLI <br/>
   [a. Configure basic ASA settings and interface security levels using CLI](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/main/Practical%2010/Practical%2010%20IP.pkt) <br/>
