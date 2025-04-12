@@ -1,6 +1,6 @@
 # TyBScIT_sem6_IS
 1. Configure Routers: 
-[a. OSPF MD5 authentication.](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/main/Practical%201/practical%201a.pkt)
+[a. OSPF MD5 authentication.](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/main/Practical%201/practical%201a.pkt)<br/>
   b. NTP. 
   c. to log messages to the syslog server. 
   
