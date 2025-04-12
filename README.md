@@ -1,8 +1,8 @@
 # TyBScIT_sem6_IS
 1. Configure Routers: 
-a. OSPF MD5 authentication. 
-b. NTP. 
-c. to log messages to the syslog server. 
+[a. OSPF MD5 authentication.](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/main/Practical%201/practical%201a.pkt)
+  b. NTP. 
+  c. to log messages to the syslog server. 
   
 2. Configure AAA Authentication 
 a. Configure a local user account on Router and configure authenticate on the console 
