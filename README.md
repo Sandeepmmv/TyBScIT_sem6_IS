@@ -40,3 +40,6 @@ management station PC-C.](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/mai
   [b. Configure routing, address translation, and inspection policy using CLI](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/main/Practical%2010/Practical%2010%20C-R1.pkt) <br/>
   [c. Configure DHCP, AAA, and SSH](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/main/Practical%2010/Practical%2010C.pkt) <br/>
   [d. Configure a DMZ, Static NAT, and ACLs](https://github.com/Sandeepmmv/TyBScIT_sem6_IS/blob/main/Practical%2010/Practical%2010%20DHCP.pkt) <br/>
+
+
+### [Cisco Pracket Link](https://drive.google.com/file/d/1F7MdvRvxXS_GoP74ZT3iZXNoPLNI1z_o/view?usp=sharing)
